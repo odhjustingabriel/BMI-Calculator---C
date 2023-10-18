@@ -10,6 +10,7 @@ int main() {
     printf("Enter your height in meters: ");
     scanf("%f", &height);
 
+//BMI descripion
     bmi = weight / (height * height);
 
     if (bmi < 18.5) {
