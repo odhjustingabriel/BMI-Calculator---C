@@ -25,6 +25,7 @@ int main() {
         status = "obese";
     }
 
+//BMI output
     printf("Your BMI is %.2f, which is %s\n", bmi, status);
 
     return 0;
