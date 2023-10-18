@@ -4,9 +4,11 @@ int main() {
     float weight, height, bmi;
     char* status;
 
+//input weight
     printf("Enter your weight in kilograms: ");
     scanf("%f", &weight);
 
+//input height
     printf("Enter your height in meters: ");
     scanf("%f", &height);
 
